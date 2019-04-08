@@ -9,7 +9,7 @@
   "ISNAN": "Coloque números, não letras! Você sabe o que a diferença de letras e números, certo?",
   "DO_YOURSELF": "Você não pode fazer esta ação sobre si! 🤦🏻‍",
   "CHECK_DIRECT_MESSAGE": "Por favor, cheque as MDs!",
-  "AVATAR_DOWNLOAD": "Quer fazer download da imagem? Clique [aqui](%avatar%).",
+  "AVATAR_DOWNLOAD": "Quer fazer download da imagem? Clique [aqui]({0}).",
   "CLEAR_LOWER_HUNDRED": "Coloque um número menor que 💯.",
   "CLEAR_MORE_ZERO": "Coloque um número maior que 0.",
   "CLEAR_NON": "Desculpe, nenhuma mensagem foi deleta, as mensagens eram muito antigas! 🙇🏻‍",
