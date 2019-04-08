@@ -45,5 +45,6 @@
     "3": "(╯°□°）╯︵ ┻━┻ (Alto)",
     "4": "┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻ (Extremo)"
   },
-  "SETPREFIX_NEW": "Agora a prefixo neste servidor é: ``%s``."
+  "SERVERINFO_INFO": "Informações do servidor: ``%s``.",
+  "SETPREFIX_NEW": "Agora a prefixo neste servidor é: ``%s``.",
 };
