@@ -39,11 +39,11 @@
   "REGISTER_SUCCESSUFUL": "%s, Você foi registrado(a) na database com sucesso! Seu ID: \`\`%s\`\`.",
   "REPORTBUG_SENT": "O erro foi reportado, 🍡Moeefa | モエエファ🍙 tentará resolvê-lo.",
   "SERVERINFO_SECURITY": {
-    '0': 'Nenhum',
-    '1': 'Baixo',
-    '2': 'Médio',
-    '3': '(╯°□°）╯︵ ┻━┻ (Alto)',
-    '4': '┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻ (Extremo)'
+    "0": "Nenhum",
+    "1": "Baixo",
+    "2": "Médio",
+    "3": "(╯°□°）╯︵ ┻━┻ (Alto)",
+    "4": "┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻ (Extremo)"
   },
   "SETPREFIX_NEW": "Agora a prefixo neste servidor é: ``%s``."
 };
