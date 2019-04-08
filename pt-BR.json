@@ -36,7 +36,7 @@
   "PING_SEND_MS": "Pong! 🏓 Meu ping é de %sms. Ping da API é de %sms",
   "PING_QUESTION": "Ping?",
   "REGISTER_ALREADY": "%s, Você já está registrado(a) na database!",
-  "REGISTER_SUCCESSUFUL": "%s, Você foi registrado(a) na database com sucesso! Seu ID: \`\`%s\`\`.",
+  "REGISTER_SUCCESSUFUL": "%s, Você foi registrado(a) na database com sucesso! Seu ID: %s.",
   "REPORTBUG_SENT": "O erro foi reportado, 🍡Moeefa | モエエファ🍙 tentará resolvê-lo.",
   "SERVERINFO_SECURITY": {
     "0": "Nenhum",
@@ -47,4 +47,4 @@
   },
   "SERVERINFO_INFO": "Informações do servidor: ``%s``.",
   "SETPREFIX_NEW": "Agora a prefixo neste servidor é: ``%s``.",
-};
+}
