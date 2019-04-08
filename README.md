@@ -8,4 +8,4 @@ Quer ajudar? Entre em contato comigo no Discord:
 # Fase atual 📊
 Nesse momento, eu ainda estou criando os arquivos.
 Tentarei trazer os idiomas: português, inglês e japonês.
-Provavelmente o japonês terá muitas falhas... (*tosse* Google Tradutor *tosse*)
+Provavelmente o japonês terá muitas falhas... (* *tosse* * Google Tradutor * *tosse* *)
