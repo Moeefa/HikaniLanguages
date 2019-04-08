@@ -1,7 +1,7 @@
 {
   "PERMISSIONS_MEMBER_NO_PERM": "Você não tem permissão para isso!",
   "PERMISSIONS_CLIENT_NO_PERM": "Eu não tenho permissão para isso! 🤷🏻‍",
-  "PERMISSIONS_COMMAND": "%s, Você não tem permissão para usar este comando. 🚫",
+  "PERMISSIONS_COMMAND": "{0}, Você não tem permissão para usar este comando. 🚫",
   "MISSING_MENTION": "Você precisa mencionar alguém!",
   "NO_SPACE": "Por favor, remova o(s) espaço(s) e tente novamente.",
   "MISSING_ARGS": "Por favor, insira argumentos!",
@@ -9,11 +9,11 @@
   "ISNAN": "Coloque números, não letras! Você sabe o que a diferença de letras e números, certo?",
   "DO_YOURSELF": "Você não pode fazer esta ação sobre si! 🤦🏻‍",
   "CHECK_DIRECT_MESSAGE": "Por favor, cheque as MDs!",
-  "AVATAR_DOWNLOAD": "Quer fazer download da imagem? Clique [aqui](%s).",
+  "AVATAR_DOWNLOAD": "Quer fazer download da imagem? Clique [aqui](%avatar%).",
   "CLEAR_LOWER_HUNDRED": "Coloque um número menor que 💯.",
   "CLEAR_MORE_ZERO": "Coloque um número maior que 0.",
   "CLEAR_NON": "Desculpe, nenhuma mensagem foi deleta, as mensagens eram muito antigas! 🙇🏻‍",
-  "CLEAR_SUCCESSFUL_DELETED": "Sucesso! Foram deletadas ``%s/%s`` mensagem(ns)!\nComando requisitado por: ``%s``.",
+  "CLEAR_SUCCESSFUL_DELETED": "Sucesso! Foram deletadas ``{0}/{1}`` mensagem(ns)!\nComando requisitado por: ``{2}``.",
   "CMDS_RANDOM_MESSAGES": [
     "Agora me deixa comer a minha pizza! 🍕",
     "Se o Bob Esponja é o protagonista, por que o Patrick é a estrela? 🤔",
@@ -26,17 +26,17 @@
   ],
   "CMDS_COMMANDS_SITE": "Você também pode ver os meus [comandos](https://hikani.glitch.me/commands&lang=en) no meu [site](https://hikani.glitch.me/)!",
   "DAILY_REWARDED": "Você recebeu sua recompensa diária (15 🎟)!",
-  "DAILY_AWAIT": "Espere %s para pegar a sua recompensa diária!",
+  "DAILY_AWAIT": "Espere {0} para pegar a sua recompensa diária!",
   "FLIPCOIN_INSERTKEY": "Por favor, insira \"cara\" ou \"coroa\" nos argumentos.",
   "FLIPCOIN_SURE": "Certeza de que quer continuar? Se você perder, perderá 10 🎟. Caso queira, reaja no emoji abaixo. Caso não queira, ignore esta mensagem.\nA mensagem expira em 2 minutos.",
   "FLIPCOIN_TAIL": "coroa",
   "FLIPCOIN_HEAD": "cara",
-  "FLIPCOIN_WIN": "Você acertou! Caiu: %s 🎰, você ganhou 5 🎟!",
-  "FLIPCOIN_LOSE": "Errado! Caiu: %s 😢",
-  "PING_SEND_MS": "Pong! 🏓 Meu ping é de %sms. Ping da API é de %sms",
+  "FLIPCOIN_WIN": "Você acertou! Caiu: {0} 🎰, você ganhou 5 🎟!",
+  "FLIPCOIN_LOSE": "Errado! Caiu: {0} 😢",
+  "PING_SEND_MS": "Pong! 🏓 Meu ping é de {0}ms. Ping da API é de {1}ms",
   "PING_QUESTION": "Ping?",
-  "REGISTER_ALREADY": "%s, Você já está registrado(a) na database!",
-  "REGISTER_SUCCESSUFUL": "%s, Você foi registrado(a) na database com sucesso! Seu ID: %s.",
+  "REGISTER_ALREADY": "{0}, Você já está registrado(a) na database!",
+  "REGISTER_SUCCESSUFUL": "{0}, Você foi registrado(a) na database com sucesso! Seu ID: ``{1}``.",
   "REPORTBUG_SENT": "O erro foi reportado, 🍡Moeefa | モエエファ🍙 tentará resolvê-lo.",
   "SERVERINFO_SECURITY": {
     "0": "Nenhum",
@@ -45,6 +45,6 @@
     "3": "(╯°□°）╯︵ ┻━┻ (Alto)",
     "4": "┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻ (Extremo)"
   },
-  "SERVERINFO_INFO": "Informações do servidor: ``%s``.",
-  "SETPREFIX_NEW": "Agora a prefixo neste servidor é: ``%s``."
+  "SERVERINFO_INFO": "Informações do servidor: ``{0}``.",
+  "SETPREFIX_NEW": "Agora a prefixo neste servidor é: ``{0}``."
 }
