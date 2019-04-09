@@ -6,9 +6,10 @@
   "NO_SPACE": "Por favor, remova o(s) espaço(s) e tente novamente.",
   "MISSING_ARGS": "Por favor, insira argumentos!",
   "NOT_AVAIBLE_DM": "Esse comando está indisponível nas MDs. Execute este comando em um servidor.",
-  "ISNAN": "Coloque números, não letras! Você sabe o que a diferença de letras e números, certo?",
+  "ISNAN": "Coloque números, não letras! Você sabe o que a diferença de letras e números, certo? ",
   "DO_YOURSELF": "Você não pode fazer esta ação sobre si! 🤦🏻‍",
   "CHECK_DIRECT_MESSAGE": "Por favor, cheque as MDs!",
+  "REQUESTED_BY": "Comando requisitado por: {0}.",
   "AVATAR_DOWNLOAD": "Quer fazer download da imagem? Clique [aqui]({0}).",
   "CLEAR_LOWER_HUNDRED": "Coloque um número menor que 💯.",
   "CLEAR_MORE_ZERO": "Coloque um número maior que 0.",
@@ -46,5 +47,7 @@
     "4": "┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻ (Extremo)"
   },
   "SERVERINFO_INFO": "Informações do servidor: ``{0}``.",
-  "SETPREFIX_NEW": "Agora a prefixo neste servidor é: ``{0}``."
+  "SETPREFIX_NEW": "Agora a prefixo neste servidor é: ``{0}``.",
+  "HUG": "{0} Abraçou {1}!",
+  "KISS": "${0} Beijou ${1}! ❤"
 }
