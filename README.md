@@ -1,6 +1,7 @@
 # Sobre 📜
 Aqui você encontrará todos os idiomas da Hikani.
 Esse repositório provavelmente não receberá muitas atualizações.
+<br/>
 Quer ajudar? Entre em contato comigo no Discord:
 <br/>
 <a href="https://discord.gg/G3wrqEa"><img src="https://discordapp.com/api/guilds/400297081178423308/widget.png?style=banner2" alt="Suporte"></a>
