@@ -29,15 +29,17 @@
   "MENTION_RESPONSE_WEBSITE_DESC": "[Click here to access it.](https://hikani.glitch.me/)",
   "MISSING_MENTION": "You need to ping someone!",
   "MISSING_MENTION_ID": "You need to ping or insert someone's ID!",
-  "MISSING_ARGS": "Plese, insert args!",
+  "MISSING_ARGS": "Please, insert args!",
   "NO_SPACE": "Please, remove space(s) and try again.",
   "INSUFFICIENT_MONEY": "You don't have 🎟 sufficients!",
   "ERROR": "Something went wrong! 😕",
   "NOT_AVAIBLE_DM": "{0}, This command is unavaible in DMs. Use this command in a server.",
   "ISNAN": "Use numbers, not letters! You know the difference in letters and numbers, right?",
-  "DO_YOURSELF": "You can not do this action on yourself! 🤦🏻‍",
+  "DO_YOURSELF": "You can't do this action on yourself! 🤦🏻‍",
+  "DO_OWNER": "You can't do that to the owner!",
   "CHECK_DIRECT_MESSAGE": "Please, check DMs!",
   "REQUESTED_BY": "Command request by: {0}.",
+  "LANG_CODE": "en-US",
   "AVATAR_DOWNLOAD": "Wanna download the image? Click [here]({0}).",
   "CLEAR_LOWER_HUNDRED": "Insert a number lower than 💯.",
   "CLEAR_MORE_ZERO": "Insert a number higher than 0.",
@@ -78,7 +80,6 @@
   "SETPREFIX_NEW": "Now the prefix in this server is: ``{0}``.",
   "HUG_ACTION": "{0} Hugged {1}!",
   "KISS_ACTION": "{0} Kissed {1}! ❤",
-  "LANG_CODE": "en-US",
   "WEATHER_FOR": "Weather for: {0}.",
   "WEATHER_TIMEZONE": "Timezone:",
   "WEATHER_DEGREETYPE": "Degree type:",
@@ -87,6 +88,7 @@
   "WEATHER_WIND": "Wind:",
   "WEATHER_HUMIDITY": "Humidity:",
   "WEATHER_CITYINVALID": "Invalid city!",
+  "WEATHER_DEGREETYPE_LETTER": "F",
   "MUTE_TIMEDOUT": "The time passed 🕥 and {0} got unmuted!",
   "LEVEL_UPED": "You level uped to: {0}! 🆙",
   "BALL_RANDOM_MESSAGES": [
@@ -104,5 +106,6 @@
     "Of course!"
   ],
   "SETLANG_OPTIONS": "Insert ``pt-BR`` or ``en-US``!",
-  "SETLANG_SAVED": "Now my language in this server is: {0}!"
+  "SETLANG_SAVED": "Now my language in this server is: {0}!",
+  "HENTAI_IMG": "[Image link]({0})"
 }
